@@ -6,7 +6,7 @@ const GithubAvatar: FunctionComponent = () => {
     <div className="githubContainer">
       <a
         className="githubLink"
-        href="https://github.com/Leslie-Wong-H/game_of_life"
+        href="https://github.com/playgameoflife/game_of_life"
         target="_blank"
         rel="noopener noreferrer"
       >
